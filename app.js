@@ -1,5 +1,5 @@
 
-let section = (autoresRomance + autoresFantasia + autoresFiccao + autoresContos + autoresPoesia) document.getElementById("resultados-pesquisa")
+let section = (autoresRomance + autoresFantasia + autoresFiccao + autoresContos + autoresPoesia). document.getElementById("resultados-pesquisa")
 let resultados = ""
 for (autor of autores)
     resultados += `
